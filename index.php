@@ -40,7 +40,11 @@ include 'header.php';
             <?php } ?>
         </tbody>
     </table>
-    <?php } ?>
+    <?php } else{
+            echo "<h2>No Record Found</h2>";
+        }
+        mysqli_close($conn);
+        ?>
 </div>
 </div>
 </body>
