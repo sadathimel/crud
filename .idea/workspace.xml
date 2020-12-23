@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44a28945-04a8-48af-8748-75a0f6519af0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/delete-inline.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/savedata.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/updatedata.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/add.php" beforeDir="false" afterPath="$PROJECT_DIR$/add.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/edit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/delete-inline.php" beforeDir="false" afterPath="$PROJECT_DIR$/delete-inline.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/delete.php" beforeDir="false" afterPath="$PROJECT_DIR$/delete.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/update.php" beforeDir="false" afterPath="$PROJECT_DIR$/update.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +50,7 @@
       <workItem from="1608619542691" duration="3339000" />
       <workItem from="1608631628091" duration="7293000" />
       <workItem from="1608658855855" duration="6688000" />
-      <workItem from="1608732655863" duration="7669000" />
+      <workItem from="1608732655863" duration="10819000" />
     </task>
     <servers />
   </component>
